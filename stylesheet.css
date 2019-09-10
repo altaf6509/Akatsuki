@@ -1,0 +1,49 @@
+body {
+margin: 0px;
+width: 105em;
+background: #2c0926;
+}
+
+#homeImage {
+    height: 40em;
+    background: #2c0926;    
+}
+
+.imageAkatsuki{
+    height: inherit;
+    padding-left: 16.5%;
+    padding-right: 16%;
+}
+
+#topMenu {
+    display: inline-flex; 
+    background: black;
+    width: inherit;
+    padding-left: 18em;
+}
+
+#history{
+    font-family: fantasy;
+    color: white;
+    padding-left: 16.5%;
+    padding-right: 16%;
+}
+
+ul {
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type: none; 
+    display: inline-flex;
+    color: #736380;
+    font-size: 1.4em;
+    font-weight: 400;
+}
+li {
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+}
+
+li:hover {
+    color: white;
+}
